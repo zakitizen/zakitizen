@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 | Project                                       | Description                                  |
 | --------------------------------------------- | -------------------------------------------- |
-| **[NAMA-PROYEK-PYTHON](https://github.com/zakitizen/NAMA-PROYEK-PYTHON)** | **(Ganti dengan deskripsi proyek Python Anda)** |
+| **[zakitizen](https://github.com/zakitizen/zakitizen)** | **(A simple project using  Python and Currently deepening my knowledge of Python. )** |
 | **[ZAKI-PROJECT](https://github.com/zakitizen/ZAKI-PROJECT)** | A collection of my projects.                 |
 | **[PHP-DASAR](https://github.com/zakitizen/PHP-DASAR)** | A repository for learning the basics of PHP. |
 | **[html-js](https://github.com/zakitizen/html-js)** | A simple project using HTML and JavaScript.  |
